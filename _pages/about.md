@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Since September 2021 I am a postdoc in the Computational Bioimaging and BioInformatics group at École normale supérieure / PSL University. Currently, I am working on developing deep learning methods to improve the spatial resolution of microscopy images.
+Since September 2021 I am a postdoc in the Computational Bioimaging and BioInformatics group at École normale supérieure / PSL University with Auguste Genovesio. Currently, I am working on developing deep learning methods to improve the spatial resolution of microscopy images.
 
 I did my PhD at the Inria research center in Rennes, under the supervision of Teddy Furon and Laurent Amsaleg, which I defended in July 2021. I was a member of the LinkMedia research team, which is focused on extracting and representing information from multimedia. 
 
-My Ph.D. was part of "ID_IoT," a European project, where we developed privacy-preserving algorithms for authentication and identification of low-power devices in IoT. My main contribution to the project was “designing privacy-preserving group membership verification schemes to check if a device or an individual is a member of a group without revealing the identity of that member”.
+My Ph.D. was part of ID_IoT, a European project, where we developed privacy-preserving algorithms for authentication and identification of low-power devices in IoT. My main contribution to the project was “designing privacy-preserving group membership verification schemes to check if a device or an individual is a member of a group without revealing the identity of that member”.
 
 
 
