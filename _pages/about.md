@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Since September 2021 I am a postdoc in the Computational Bioimaging and BioInformatics group at École normale supérieure / PSL University with Auguste Genovesio. Currently, I am working on developing deep learning methods to improve the spatial resolution of microscopy images.
+Since September 2021 I am a postdoc in the Computational Bioimaging and BioInformatics group at École normale supérieure / PSL University working with Auguste Genovesio. Currently, I am working on developing deep learning methods to improve the spatial resolution of microscopy images.
 
 I did my PhD at the Inria research center in Rennes, under the supervision of Teddy Furon and Laurent Amsaleg, which I defended in July 2021. I was a member of the LinkMedia research team, which is focused on extracting and representing information from multimedia. 
 
